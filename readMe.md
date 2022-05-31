@@ -1,0 +1,1 @@
+Prédiction par machine learning supervisé du montant des ventes de la semaine de l'enseigne Walmart
